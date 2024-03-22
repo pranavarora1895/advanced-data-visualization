@@ -1,0 +1,11 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.superHeading{
+    color: rgb(22, 103, 253);
+}
+
+.dropdowns{
+    width: 25%;
+}
