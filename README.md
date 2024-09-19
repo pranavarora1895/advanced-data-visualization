@@ -5,6 +5,13 @@
 ## Some of my favorite Visualizations
 
 
+### Foray NL Data Science Contest Poster
+
+![ForayNL Mushroom Spread Poster](<NL Mushroom Spread.png>)
+
+
+### Customer Support Efficiency Poster 
+
 ![Unlocking Customer Support Efficiency](<img/Unlocking Customer Support Efficiency A Closer Look at Performance.png>)
 
 
