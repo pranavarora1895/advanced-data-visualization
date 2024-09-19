@@ -7,7 +7,7 @@
 
 ### Foray NL Data Science Contest Poster
 
-![ForayNL Mushroom Spread Poster](<NL Mushroom Spread.png>)
+![ForayNL Mushroom Spread Poster](<img/NL Mushroom Spread.png>)
 
 
 ### Customer Support Efficiency Poster 
